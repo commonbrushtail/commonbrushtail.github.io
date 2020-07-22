@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="66" viewBox="0 0 68 66">
+  <defs>
+    <filter id="Ellipse_6" x="0" y="0" width="68" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_526" data-name="Group 526" transform="translate(9.458 6.281)">
+    <g transform="matrix(1, 0, 0, 1, -9.46, -6.28)" filter="url(#Ellipse_6)">
+      <ellipse id="Ellipse_6-2" data-name="Ellipse 6" cx="25" cy="24" rx="25" ry="24" transform="translate(9 6)"/>
+    </g>
+    <path id="love-and-romance" d="M25.172,2.38A7.352,7.352,0,0,0,19.7,0a6.878,6.878,0,0,0-4.3,1.483A8.789,8.789,0,0,0,13.67,3.3a8.784,8.784,0,0,0-1.737-1.814A6.877,6.877,0,0,0,7.638,0,7.352,7.352,0,0,0,2.169,2.38,8.546,8.546,0,0,0,0,8.217a10.176,10.176,0,0,0,2.712,6.661A57.821,57.821,0,0,0,9.5,21.249c.941.8,2.007,1.71,3.114,2.678a1.605,1.605,0,0,0,2.113,0c1.107-.968,2.174-1.877,3.115-2.679a57.8,57.8,0,0,0,6.788-6.371,10.175,10.175,0,0,0,2.712-6.661A8.545,8.545,0,0,0,25.172,2.38Zm0,0" transform="translate(10.236 12.921)" fill="#fff"/>
+    <path id="Path_11" data-name="Path 11" d="M5.839,4.437H8.8V-.37h5.011v-2.9H8.8V-8.244H5.839v4.977H.828v2.9H5.839Z" transform="translate(25.053 34.223)" fill="#e21f21"/>
+  </g>
+</svg>
